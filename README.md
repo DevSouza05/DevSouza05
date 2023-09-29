@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsouza05&label=Visitors&color=900eb4&style=flat" alt="devsouza05" /> </p>
 
-- 🔭 I’m currently working on **HSTI**
+- 🔭 I’m currently working on **HS Ware TI**
 
 - 🌱 I’m currently learning **Javascript, C#, PHP and SQL**
 
