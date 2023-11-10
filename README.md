@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **peterson.moraes2005@gmail.com**
 
-- ⚡ Fun fact **I Love to play soccer and capoeira**
+- ⚡ Fun fact **I Love to drink coffe and read**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
