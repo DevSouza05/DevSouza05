@@ -28,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsouza05&show_icons=true&theme=dark&locale=en&layout=compact" alt="devsouza05" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devsouza05&show_icons=true&theme=dark&locale=en" alt="devsouza05" /></p>
+
+![snake gif](https://github.com/DevSouza05/DevSouza05/blob/output/github-contribution-grid-snake.svg)
