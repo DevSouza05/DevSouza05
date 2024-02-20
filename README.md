@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peterson Moraes</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsouza05&label=Visitors&color=900eb4&style=flat" alt="devsouza05" /> </p>
 
