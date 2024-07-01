@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **HS Ware TI**
 
-- 🌱 I’m currently learning **Javascript, C#, PHP and SQL**
+- 🌱 I’m currently learning **Javascript, C# and SQL**
 
 - 📚 Systems analysis and development student
 
