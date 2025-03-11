@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **HS Ware TI**
 
-- 🌱 I’m currently learning **Javascript, C#, Java and SQL**
+- 🌱 I’m currently learning **Java and SQL**
 
 - 📚 Systems analysis and development student
 
@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **peterson.moraes2005@gmail.com**
 
-- ⚡ Fun fact **I Love to drink coffe and read**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
