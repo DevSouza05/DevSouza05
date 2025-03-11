@@ -9,8 +9,6 @@
 
 - 📚 Systems analysis and development student
 
-- 👯 I’m looking to collaborate on **New stuff and projects**
-
 - 📫 How to reach me **peterson.moraes2005@gmail.com**
 
 
