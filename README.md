@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **HS Ware TI**
+- 🔭 I’m currently working on **university Santa Cecilia**
 
 - 🌱 I’m currently learning **Java and SQL**
 
