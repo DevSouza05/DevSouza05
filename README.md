@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **university Santa Cecilia**
 
-- 🌱 I’m currently learning **Java and SQL**
-
 - 📚 Systems analysis and development student
 
 - 📫 How to reach me **peterson.moraes2005@gmail.com**
