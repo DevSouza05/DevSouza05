@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **university Santa Cecilia**
 
-- 📚 Systems analysis and development student
+- 📚 Systems analysis and development
 
 - 📫 How to reach me **peterson.moraes2005@gmail.com**
 
